@@ -1,0 +1,7 @@
+x = __builtins__.type('algum texto digitado')
+__builtins__.print(5 + 5)
+print(x)
+y = dir()
+print(y)
+y = dir(__builtins__)
+print(y)
